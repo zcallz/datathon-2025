@@ -59,6 +59,7 @@ Bu aşama, projenin kalbidir ve en yüksek performansı elde etmek için stratej
 * **Neden Kullanıldı?** Ensemble, tahminin varyansını azaltarak modelin daha kararlı hale gelmesini sağlar. Stacking, her bir temel modelin güçlü yönlerini daha etkili bir şekilde birleştirerek nihai tahminin doğruluğunu artırır. Bu ileri seviye teknik, yarışmada sizi rakiplerinizin önüne geçiren en önemli faktörlerden biridir.
    
 * **Nasıl Çalışır?**
+  
         1.  **Out-of-Fold (OOF) Tahminleri:** Her bir temel model, çapraz doğrulama (`KFold`) kullanılarak eğitilir ve kendi eğitim verisi üzerinde tahminler oluşturur. Bu sayede her bir temel modelin, daha önce görmediği veriler üzerinde nasıl davrandığını öğrenmesi sağlanır.
         2.  **Meta-Model Eğitimi:** Oluşturulan OOF tahminleri (`lgb_oof`, `xgb_oof`, `cat_oof`), yeni bir veri seti gibi kabul edilir. Bu yeni veri seti, **`LinearRegression`** meta-modelini eğitmek için kullanılır. Meta-model, üç temel modelin tahminlerinden yola çıkarak nihai bir tahmin oluşturmayı öğrenir.
 
