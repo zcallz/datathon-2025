@@ -5,7 +5,7 @@ Bu metin, projenin amacını, kullanılan yöntemleri ve her bir tekniğin neden
 # TR
 # Veri Bilimi Yarışması Projesi: Kullanıcı Seansı Değeri Tahmini
 
-Bu proje, bir e-ticaret platformunda kullanıcı seanslarının değerini tahmin etmeyi amaçlayan bir veri bilimi yarışması için geliştirilmiştir. Elde edilen 540'lık MSE (Ortalama Kare Hata) değeri, modelin yüksek doğrulukta tahminler yaptığını göstermektedir.
+Bu proje, bir e-ticaret platformunda kullanıcı seanslarının değerini tahmin etmeyi amaçlayan bir veri bilimi yarışması için geliştirilmiştir. Elde edilen 540'lık MSE (Ortalama Kare Hata) değeri, modelin yüksek doğrulukta tahminler yaptığını göstermektedir. guncelsonkod.py için hazırlanmıştır.
 
 ---
 
@@ -73,7 +73,7 @@ Bu projede kullanılan teknikler, sadece bir yarışma kazanmaya yönelik değil
 
 ### Final Version of the README Text
 
-This text will clearly demonstrate the project's purpose, the methods used, and why each technique was so effective to potential employers and other data scientists.
+This text will clearly demonstrate the project's purpose, the methods used, and why each technique was so effective to potential employers and other data scientists. It has been prepared for the guncelsonkod.py file.
 
 # Data Science Competition Project: User Session Value Prediction
 
