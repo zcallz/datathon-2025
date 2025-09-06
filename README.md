@@ -1,6 +1,6 @@
 # datathon-2025
 
-Bu metin, projenin amacını, kullanılan yöntemleri ve her bir tekniğin neden bu kadar etkili olduğunu potansiyel işverenlere ve diğer veri bilimcilere açıkça gösterecektir.
+Bu metin, projenin amacını, kullanılan yöntemleri ve her bir tekniğin neden etkili olduğunu göstermek amacıyla yazılmıştır..
 ---
 # TR
 # Veri Bilimi Yarışması Projesi: Kullanıcı Seansı Değeri Tahmini
@@ -74,7 +74,7 @@ Bu projede kullanılan teknikler, sadece bir yarışma kazanmaya yönelik değil
 
 ### Final Version of the README Text
 
-This text will clearly demonstrate the project's purpose, the methods used, and why each technique was so effective to potential employers and other data scientists. It has been prepared for the guncelsonkod.py file.
+This text will clearly demonstrate the project's purpose, the methods used, and why each technique was so effective to other data scientists. It has been prepared for the guncelsonkod.py file.
 
 # Data Science Competition Project: User Session Value Prediction
 
